@@ -28,7 +28,7 @@ agenda.function();
 console.log(" de invierno de 2015, justamente el dia 5 de Enero y habia quedado de");
 console.log(agenda.medioDia + " y ir al cine ver la nueva peli de " + villano + ". ");
 console.log("Luego llegando a casa oí un grito...");
-console.log(houseData[1] + "...");
+houseData[1]();
 console.log(" me asusté, " + houseData[2] + " un barrio malo del " + agenda.destinoVacaciones[1] + 
 " he entrado rápido a ver lo que pasaba...");
 console.log(" y me deparo con mi hermano vendo '" + houseData[0] + "' con el volumen a tope.");
